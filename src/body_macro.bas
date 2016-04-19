@@ -1,4 +1,5 @@
-Sub Macro2()
+'your name is missed
+Sub Macro2() 'it might be better to have specific title
 '
 ' Macro2 Macro
 '
@@ -101,3 +102,5 @@ Sub Macro2()
     End With
     Selection.ParagraphFormat.Alignment = wdAlignParagraphJustify
 End Sub
+
+'overally your code looks good!
